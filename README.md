@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @mahendruankit
-- 👀 I’m a software developer | musician | caninophile 
-- 🌱 I’m currently learning Angular, ReactJS, C# & Kubernetes
-- 📫 https://www.ankitmahendru.com/
+- 👋 Hi, I’m Ankit Mahendru
+- 👀 A software developer who also likes to make music and is a caninophile.
+- 🌱 Working with Angular, ReactJS, & C# at the moment.
+- 📫 https://ankitmahendru.com/
+- 📫 https://faeutero.com/
 
 <!---
 mahendruankit/mahendruankit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
