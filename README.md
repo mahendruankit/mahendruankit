@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Ankit Mahendru
-- 👀 A software developer who also likes to make music and is a caninophile.
+- 👀 A software developer who also likes to make music
+- Officially a caninophile.
 - 🌱 Working with Angular, ReactJS, & C# at the moment.
 - 📫 https://ankitmahendru.com/
 - 📫 https://faeutero.com/
