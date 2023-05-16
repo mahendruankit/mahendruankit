@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Ankit Mahendru
-- 💻 Software developer 
-- 🌱 I work with Angular, ReactJS & C# at the moment
+- 💻 Software developer | Dog lover (in hindsight dog lover sounds a bit dodgy)
+- 🌱 Currently working with Angular & React (TypeScript and JavaScript)
+- 🏔️ I enjoy hill walks with my three dog children and eating dosa. Dosa is life.
 - 📫 https://ankitmahendru.com/
 - 📫 https://faeutero.com/
 
