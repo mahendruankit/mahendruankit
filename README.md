@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ankit Mahendru
 - 📝 Software developer | Dog lover (in hindsight dog lover sounds a bit dodgy)
 - 💻 Currently working with Angular & TypeScript
-- 🏔️ I enjoy hill walks with my three dog children and eating dosa. Dosa is life.
+- 🏔️ I enjoy hill walks with my dog-children and devouring dosas. Dosa is life.
 - 📫 https://ankitmahendru.com/
 - 📫 https://faeutero.com/
 
